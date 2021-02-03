@@ -28,7 +28,7 @@ body {
 .fbar {
     margin: 0;
     padding: 0;
-    background: linear-gradient(#4e69a2, #3b5998 50%);
+    background: linear-gradient(#5da24e, #3b5998 50%);
     border-bottom: 1px solid darkblue;
     min-height: 70px;
     flex: 1;
